@@ -74,7 +74,7 @@ while True:
 
 	print("Do you want to play again? (Y/N)")
 	ans = input().lower
-
+# we converted answer into lower case
 	# if user input n or N then condition is True
 	if ans == 'n':
 		break
